@@ -1,3 +1,6 @@
 This code was used in an Intro to OpenFrameWorks session at ITP. 
 The attached Processing code was converted to OF to show similarities and differences between functions. 
 We also added the ofxKinect library to show how add-ons are used in OF.
+
+Live screen recording on Vimeo:
+https://vimeo.com/49204516/
